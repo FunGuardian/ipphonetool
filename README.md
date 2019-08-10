@@ -8,6 +8,7 @@ With this script you can get all information about Cisco IP Phone (I made separa
 * Install eventlets
 * Install bs4
 * You can install module requests, eventlets, bs4, by typing in cmd : "pip install 'modulename'"
+* I add file name requirements.txt, so you guys can install by typing pip install -r requirements.txt
 # Tutorial
 * Use script 1_get_ip_phone_data.py to gather IP Phone Data
 * Use script 2_get_serial_number.py to get Serial Number
